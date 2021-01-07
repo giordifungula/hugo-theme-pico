@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://gallant-varahamihira-1bc565.netlify.app/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
