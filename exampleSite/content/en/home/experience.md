@@ -20,6 +20,14 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   date_end = ""
   description = "Chief cook of the biggest restaurant of Bikini Bottom."
 
+  [[period]]
+  title = "Chief cook"
+  subtitle = "UCT"
+  location = "Bikini Bottom"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = "Chief cook of the biggest restaurant of Bikini Bottom."
+
 [[period]]
   title = "Trainee cook"
   subtitle = "Krusty krab"
