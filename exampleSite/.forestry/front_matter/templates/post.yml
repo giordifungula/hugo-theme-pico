@@ -31,3 +31,5 @@ fields:
   config:
     required: false
   label: Message
+pages:
+- exampleSite/content/en/blog/i-love-cape-town.md
